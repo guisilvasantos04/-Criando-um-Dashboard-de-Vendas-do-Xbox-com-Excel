@@ -1,0 +1,2 @@
+# -Criando-um-Dashboard-de-Vendas-do-Xbox-com-Excel
+Projeto voltado à criação de um Dashboard de Vendas do Xbox no Excel, com foco na organização, limpeza e visualização de dados. O objetivo é transformar dados brutos em informações claras e objetivas, facilitando a análise de desempenho, o acompanhamento de indicadores e a tomada de decisões baseada em dados. Ideal para estudo e prática em análise 
